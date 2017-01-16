@@ -1,0 +1,1 @@
+include ':app', ':mobilephoneplayer', ':startallvideoplayer', ':vitamio-sample', ':vitamio', ':xutils', ':xUtils3_sample', ':Android-MaterialRefreshLayout-master', ':MateriaRefresh_library', ':binderService'

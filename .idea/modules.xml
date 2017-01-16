@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-MaterialRefreshLayout-master/Android-MaterialRefreshLayout-master.iml" filepath="$PROJECT_DIR$/Android-MaterialRefreshLayout-master/Android-MaterialRefreshLayout-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MateriaRefresh_library/MateriaRefresh_library.iml" filepath="$PROJECT_DIR$/MateriaRefresh_library/MateriaRefresh_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobilePhonePlayer.iml" filepath="$PROJECT_DIR$/MobilePhonePlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binderService/binderService.iml" filepath="$PROJECT_DIR$/binderService/binderService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobilephoneplayer/mobilephoneplayer.iml" filepath="$PROJECT_DIR$/mobilephoneplayer/mobilephoneplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/startallvideoplayer/startallvideoplayer.iml" filepath="$PROJECT_DIR$/startallvideoplayer/startallvideoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio-sample/vitamio-sample.iml" filepath="$PROJECT_DIR$/vitamio-sample/vitamio-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xUtils3_sample/xUtils3_sample.iml" filepath="$PROJECT_DIR$/xUtils3_sample/xUtils3_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
+    </modules>
+  </component>
+</project>
